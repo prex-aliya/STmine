@@ -56,5 +56,5 @@ dkms.conf
 
 st
 
-*/patch/
-patch/
+*/patch/*
+patch/*
